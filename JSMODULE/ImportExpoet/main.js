@@ -3,6 +3,7 @@ import message from './ex2.js'
 
 console.log(sub(10,6))
 console.log(sum(2,6))
+console.log(sum(8,6))
 
 
 for(let i=0;i<number.length;i++)
