@@ -1,0 +1,6 @@
+let arr = [4, 8, 6, 2];
+let number = parseInt(arr.join(""));
+console.log(number);  // Output: 4862
+
+
+
