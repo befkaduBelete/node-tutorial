@@ -1,3 +1,6 @@
+// Promise.allSettled() is a method in JavaScript that takes an array of promises and returns 
+// a single promise that resolves when all of the input promises have settled, meaning each has either fulfilled or rejected.
+
 function function1(){
    return new Promise ((resolve,reject)=>{
     setTimeout(()=>{
