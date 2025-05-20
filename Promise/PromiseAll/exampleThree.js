@@ -1,3 +1,14 @@
+
+
+// Promise.all() takes an array of promises and:
+
+// Waits for all of them to complete
+
+// Returns a new promise that:
+
+// ✅ Resolves with an array of results (if all succeed)
+
+// ❌ Rejects immediately if any promise fails
 function function1(){
     return new Promise((resolve,reject)=>{
         setTimeout(()=>{
